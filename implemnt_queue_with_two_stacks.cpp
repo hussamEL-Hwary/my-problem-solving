@@ -1,3 +1,7 @@
+/*
+author Hossam EL-Hwary
+problem URL https://www.hackerrank.com/challenges/ctci-queue-using-two-stacks
+*/
 #include <cmath>
 #include <cstdio>
 #include <vector>
