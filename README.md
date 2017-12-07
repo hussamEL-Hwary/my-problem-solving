@@ -1,5 +1,9 @@
-# good_problems-to-solve
-this types of problems help you to be good at Data Structure and algorithms.<br />
-it's important to try to solve the problem before you see the solution. <br />
+## my problem solving
+this repo contains part of solved problem  .<br />
 you can find the problem URL in the first comment of each problem. <br />
-if you have any modification don't hesitate :)  
+
+#### my online judjes accounts
+|[codefights](https://codefights.com/profile/hussam)|
+|[hackerrank](https://www.hackerrank.com/_Hussam_)|
+|[codeforces](http://codeforces.com/profile/_Hussam_)|
+|[leetcode](https://leetcode.com/hossam4/)|
