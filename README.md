@@ -2,7 +2,7 @@
 this repo contains part of solved problem  .<br />
 you can find the problem URL in the first comment of each problem. <br />
 
-#### my online judjes accounts.
+#### my online judges accounts.
 
 |               |              
 | :------------ |
