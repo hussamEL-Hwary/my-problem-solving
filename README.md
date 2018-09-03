@@ -1,6 +1,6 @@
-## my problem solving
-this repo contains part of solved problem  .<br />
-you can find the problem URL in the first comment of each problem. <br />
+## My problem solving
+This repo contains part of solved problem.<br />
+The problem URL in the first comment of each problem. <br />
 
 #### my online judges accounts.
 
